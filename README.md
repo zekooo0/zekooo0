@@ -1,6 +1,6 @@
 
 
-# <p id="heading" style="font-weight:bold;font-size:32px"align="center"><img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/>Welcome to my <span style="color:pink">GitHub</span> profile<img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/><br><br> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></p>
+# <p align="center"><img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/>Welcome to my <span style="color:pink">GitHub</span> profile<img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/><br><br> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></p>
 
 # - I'm **Ahmed Gamal**
 
