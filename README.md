@@ -68,11 +68,11 @@
     <a href="https://github.com/ahmedgamal2212" class="stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamal2212&langs_count=5&layout=compact&theme=radical">
     </a>
-    <br>
+    <br><br>
     <a href="https://github.com/ahmedgamal2212" class="stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedgamal2212&show_icons=true&theme=radical" />
     </a>
-    <br>
+    <br><br>
     <a href="https://github.com/ahmedgamal2212" class="stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedgamal2212&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a><a class="stats">
     <img src="https://github-profile-trophy.vercel.app/?username=ahmedgamal2212&theme=radical&no-frame=false&row=1&&margin-w=30&no-bg=true">
     </a>
@@ -84,7 +84,6 @@
 ## <p class="headers"> <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" alt="tech" title="tech" width="50px"> Technologies, Languages, and Tools </p>
 
 <p align="center" class="box" style="flex-direction:row">
-    <img src="" alt="" title="" width="">
     <i class="devicon-cplusplus-plain tech-icons"></i>
     <i class="devicon-c-plain-wordmark tech-icons"></i>
     <i class="devicon-html5-plain-wordmark tech-icons"></i>
