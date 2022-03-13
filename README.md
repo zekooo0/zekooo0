@@ -141,7 +141,7 @@
 
 
 <!-- end -->
-<div class="box" style="text-align:center">
-    <p>Don't forget to give this repo a star <img src="https://media.giphy.com/media/k9F6ZtOTEr4UGmt3H2/giphy.gif" width="40px" alt="star" title="star"><br> Thank you for your attention</p>
-    <img src="https://media.giphy.com/media/3HbtyiV6otnLf4WHSN/giphy.gif" alt="duck" title="duck" width="300px">
-</div>
+<p align="center" class="box" style="text-align:center">
+    <p align="center">Don't forget to give this repo a star <img src="https://media.giphy.com/media/k9F6ZtOTEr4UGmt3H2/giphy.gif" width="40px" alt="star" title="star"><br> Thank you for your attention<br> <img src="https://media.giphy.com/media/3HbtyiV6otnLf4WHSN/giphy.gif" alt="duck" title="duck" width="300px"></p>
+    
+</p>
