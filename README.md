@@ -7,14 +7,17 @@
     #heading{
         font-family: 'Hubballi', cursive;
     }
+	
     .headers{
         font-family: 'Merienda', cursive;
         font-size: 20px;
         font-weight: bold;
     }
+	
     #name{
         font-size: 20px;
     }
+	
     .box{
         display: flex;
         justify-content: center;
@@ -22,12 +25,15 @@
         flex-direction: column;
         flex-wrap: wrap;
     }
+	
     .color{
         color: red;
     }
+	
     ul{
         list-style: none;
     }
+	
     li::before{
         content: "•"; 
         display: inline-block;
@@ -36,15 +42,19 @@
         margin: 10px 2px;
         padding: auto;
     }
+	
     .red::before{
         color:red;
     }
+	
     .blue::before{
         color:pink;
     }
+	
     .bold{
         font-weight: bold;
     }
+	
     .tech-icons{
         font-size:50px;
     }
