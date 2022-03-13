@@ -139,7 +139,7 @@
 
 ## <p class="headers"> <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" alt="tech" title="tech" width="50px"> Technologies, Languages, and Tools </p>
 
-<div class="box" style="flex-direction:row">
+<p align="center" class="box" style="flex-direction:row">
     <img src="" alt="" title="" width="">
     <i class="devicon-cplusplus-plain tech-icons"></i>
     <i class="devicon-c-plain-wordmark tech-icons"></i>
@@ -156,7 +156,7 @@
     <i class="devicon-vscode-plain-wordmark tech-icons"></i>
     <!-- <i class="devicon-intellij-plain-wordmark"></i> -->
     <br>
-</div>
+</p>
 
 ## <p class="headers"><img src="https://media.giphy.com/media/Vbc33O3DoedXa0O6Pj/giphy.gif" width="50px"/> Currently Learning / Interested In</p> 
 
