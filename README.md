@@ -47,8 +47,11 @@
 </style>
 
 <!-- connecting to google fonts api -->
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
+
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
 <link href="https://fonts.googleapis.com/css2?family=Merienda&family=Hubballi&display=swap" rel="stylesheet">
 
 
@@ -139,46 +142,44 @@
 
 ## <p class="headers"> <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" alt="tech" title="tech" width="50px"> Technologies, Languages, and Tools </p>
 
-<div class="box" style="flex-direction:row">
-    <img src="" alt="" title="" width="">
-    <i class="devicon-cplusplus-plain tech-icons"></i>
-    <i class="devicon-c-plain-wordmark tech-icons"></i>
-    <i class="devicon-html5-plain-wordmark tech-icons"></i>
-    <i class="devicon-css3-plain-wordmark tech-icons"></i>
-    <i class="devicon-git-plain-wordmark tech-icons"></i>
-    <i class="devicon-github-original-wordmark tech-icons"></i>
-    <i class="devicon-java-plain-wordmark tech-icons"></i>
-    <i class="devicon-javascript-plain tech-icons"></i>
-    <i class="devicon-linux-plain tech-icons"></i>
-    <i class="devicon-markdown-original tech-icons"></i>
-    <i class="devicon-python-plain-wordmark tech-icons"></i>
-    <i class="devicon-ubuntu-plain-wordmark tech-icons"></i>
-    <i class="devicon-vscode-plain-wordmark tech-icons"></i>
-    <!-- <i class="devicon-intellij-plain-wordmark"></i> -->
-    <br>
-</div>
+<p align="center">
+    <img src="tech-icons/cpp.svg" alt="cpp" width="50px" title="cpp">
+    <img src="tech-icons/c.svg" alt="c" width="50px" title="c">
+    <img src="tech-icons/html.svg" alt="html" width="50px" title="html">
+    <img src="tech-icons/css.svg" alt="css" width="50px" title="css">
+    <img src="tech-icons/git.svg" alt="git" width="50px" title="git">
+    <img src="tech-icons/github.svg" alt="github" width="50px" title="github">
+    <img src="tech-icons/java.svg" alt="java" width="50px" title="java">
+    <img src="tech-icons/js.svg" alt="js" width="50px" title="js">
+    <img src="tech-icons/linux.svg" alt="linux" width="50px" title="linux">
+    <img src="tech-icons/md.svg" alt="md" width="50px" title="md">
+    <img src="tech-icons/python.svg" alt="python" width="50px" title="python">
+    <img src="tech-icons/ubuntu.svg" alt="ubuntu" width="50px" title="ubuntu">
+    <img src="tech-icons/vscode.svg" alt="vscode" width="50px" title="vscode">
+</p>
 
 ## <p class="headers"><img src="https://media.giphy.com/media/Vbc33O3DoedXa0O6Pj/giphy.gif" width="50px"/> Currently Learning / Interested In</p> 
 
-<div class="box" style="flex-direction:row">
-    <i class="devicon-bash-plain tech-icons"></i>
-    <i class="devicon-nextjs-original-wordmark tech-icons"></i>
-    <i class="devicon-nodejs-plain tech-icons"></i>
-    <i class="devicon-react-original-wordmark tech-icons"></i>
-    <i class="devicon-vuejs-plain-wordmark tech-icons"></i><i class="devicon-wordpress-plain-wordmark tech-icons"></i>
-    <i class="devicon-bootstrap-plain-wordmark tech-icons"></i>
-    <i class="devicon-spring-plain-wordmark tech-icons"></i>
-</div>
+<p align="center">
+    <img src="tech-icons/bash.svg" alt="bash" width="50px" title="bash">
+    <img src="tech-icons/next.svg" alt="next" width="50px" title="next">
+    <img src="tech-icons/node.svg" alt="node" width="50px" title="node">
+    <img src="tech-icons/react.svg" alt="react" width="50px" title="react">
+    <img src="tech-icons/vue.svg" alt="vue" width="50px" title="vue">
+    <img src="tech-icons/wp.svg" alt="wp" width="50px" title="wp">
+    <img src="tech-icons/bootstrap.svg" alt="bootstrap" width="50px" title="bootstrap">
+    <img src="tech-icons/spring.svg" alt="spring" width="50px" title="spring">
+</p>
 
 <br>
 
-<div class="box" style="flex-direction:row">
+<p align="center" class="box" style="flex-direction:row">
     <img src="https://media.giphy.com/media/yjSNYYnj9gAeUbSHr3/giphy.gif" alt="clion" title="clion" width="60px">
     <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" title="pycharm" width="60px">
     <img src="https://media.giphy.com/media/0ZKDGWWimlunrp82XU/giphy.gif" alt="webstorm" title="webstorm" width="60px">
     <img src="https://media.giphy.com/media/iJWXxAr2Za6EtN2Row/giphy.gif" alt="ij" title="ij" width="60px">
     <img src="https://media.giphy.com/media/ukzNjL2uvnKjQwiO96/giphy.gif" alt="jb" title="jb" width="100px">
-</div>
+</p>
 
 
 <hr>
