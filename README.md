@@ -99,8 +99,6 @@
     <img src="tech-icons/vscode.svg" alt="vscode" width="50px" title="vscode">
 </p>
 
-=======
-
 ## <p class="headers"><img src="https://media.giphy.com/media/Vbc33O3DoedXa0O6Pj/giphy.gif" width="50px"/> Currently Learning / Interested In</p> 
 
 <p align="center">
