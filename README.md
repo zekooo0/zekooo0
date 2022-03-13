@@ -21,23 +21,24 @@
 <!-- About -->
 ## <p class="headers"><img src = "https://media.giphy.com/media/142K5KNLmUBtYI/giphy.gif" width = 50px>  About me </p>
 
+
 <img align="right" src="https://media.giphy.com/media/11EcsZWIcV4q2I/giphy.gif" width = 250px/>
 
 <br><br>
+
 <ul>
+<li>I am a Junior <strong>Computer Science</strong> Student @ SCU</li>
+<li> I'm an <strong>ACPC2021</strong> Finalist</li> 
 
-<li class="red">I am a Junior <span class="bold">Computer Science</span> Student @ SCU</li>
-<li class="blue"> I'm an <span class="bold">ACPC2021<span> Finalist</li> 
+<li> I enjoy <strong>Problem Solving</strong> and <strong>Programming Competitions</strong></li>  
 
-<li class="red"> I enjoy <span class="bold">Problem Solving</span> and <span class="bold">Programming Competitions</span> </li>  
+<li> P assionate about <strong>Software Development</strong> and <strong>Emerging Technologies</strong></li>
 
-<li class="blue"> P assionate about <span class="bold">Software Development</span> and <span class="bold">Emerging Technologies</span> </li>
+<li> Looking forward to being a great <strong>Software Engineer</strong></li>
 
-<li class="red"> Looking forward to being a great <span class="bold">Software Engineer<span></li>
+<li> I'm into <strong>Data Structures</strong> & <strong>Algorithms</strong> <3 </li>
 
-<li class="blue"> I'm into <span class="bold">Data Structures</span> & <span class="bold">Algorithms</span> <span style="color:red"><3</span> </li>
-
-<li class="red"> You can look at my <a href="https://drive.google.com/file/d/1xUxU5Wd_0921lt3ZNtdNxNPTM8_D5uXx/view?usp=sharing" target="blank"><span class="bold" style="color:darkred;">Resume</span></a> for more Details about me and my work / volunteering experience  </li>
+<li> You can look at my <a href="https://drive.google.com/file/d/1xUxU5Wd_0921lt3ZNtdNxNPTM8_D5uXx/view?usp=sharing" target="blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience  </li>
 </ul>
 
 <hr>
@@ -45,9 +46,9 @@
 
 
 <!-- platforms & where to find me -->
-## <p class="headers"><img src = "https://media.giphy.com/media/zxAoODXqWnEU3lUlnD/giphy.gif" width="70px">  Where to find me? </p>
+## <p><img src="https://media.giphy.com/media/zxAoODXqWnEU3lUlnD/giphy.gif" width="70px">  Where to find me? </p>
 
-<p align="center" id="platforms">
+<p align="center">
 <a href="https://www.topcoder.com/members/El_Gemmy"><img src="icons/topcoder.svg" width="50px" title="topcoder" alt="TopCoder"/></a>
   <a href="https://codeforces.com/profile/El_Gemmy"><img src="icons/codeforces.svg" alt="CodeForces" width="50px" title="codeforces"/></a>
 	<a href="https://leetcode.com/ahmedgemy2212/"><img src="icons/leetcode.svg" alt="LeetCode" width="50px" title="leetcode"/></a>
@@ -61,19 +62,21 @@
 
 
 <!-- github stats and trophies -->
-## <p class="headers"><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
+## <p><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
 
 
-<p align="center" class="box">
-    <a href="https://github.com/ahmedgamal2212" class="stats">
+<p align="center">
+    <a href="https://github.com/ahmedgamal2212">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamal2212&langs_count=5&layout=compact&theme=radical">
     </a>
     <br><br>
-    <a href="https://github.com/ahmedgamal2212" class="stats">
+    <a href="https://github.com/ahmedgamal2212">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedgamal2212&show_icons=true&theme=radical" />
     </a>
     <br><br>
-    <a href="https://github.com/ahmedgamal2212" class="stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedgamal2212&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a><a class="stats">
+    <a href="https://github.com/ahmedgamal2212"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedgamal2212&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a>
+    <br><br>
+    <a>
     <img src="https://github-profile-trophy.vercel.app/?username=ahmedgamal2212&theme=radical&no-frame=false&row=1&&margin-w=30&no-bg=true">
     </a>
 </p>
@@ -81,7 +84,7 @@
 <hr>
 <br> 
 
-## <p class="headers"> <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" alt="tech" title="tech" width="50px"> Technologies, Languages, and Tools </p>
+## <p> <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" alt="tech" title="tech" width="50px"> Technologies, Languages, and Tools </p>
 
 <p align="center">
     <img src="tech-icons/cpp.svg" alt="cpp" width="50px" title="cpp">
@@ -99,7 +102,7 @@
     <img src="tech-icons/vscode.svg" alt="vscode" width="50px" title="vscode">
 </p>
 
-## <p class="headers"><img src="https://media.giphy.com/media/Vbc33O3DoedXa0O6Pj/giphy.gif" width="50px"/> Currently Learning / Interested In</p> 
+## <p><img src="https://media.giphy.com/media/Vbc33O3DoedXa0O6Pj/giphy.gif" width="50px"/> Currently Learning / Interested In</p> 
 
 <p align="center">
     <img src="tech-icons/bash.svg" alt="bash" width="50px" title="bash">
@@ -114,7 +117,7 @@
 
 <br>
 
-<p align="center" class="box" style="flex-direction:row">
+<p align="center">
     <img src="https://media.giphy.com/media/yjSNYYnj9gAeUbSHr3/giphy.gif" alt="clion" title="clion" width="60px">
     <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" title="pycharm" width="60px">
     <img src="https://media.giphy.com/media/0ZKDGWWimlunrp82XU/giphy.gif" alt="webstorm" title="webstorm" width="60px">
@@ -127,9 +130,9 @@
 <br>
 
 <!-- how to reach me -->
-## <p class="headers"> <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to Reach Me </p>
+## <p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to Reach Me </p>
 
-
+<!-- -->
 <p align="center">
 	<a href="mailto:ahmedgamal.ssaleh@gmail.com"><img img src="icons/gmail2.svg" alt="Gmail" title="gmail" width="50px"/></a>
 	<a href="https://github.com/ahmedgamal2212"><img src="icons/github.svg" alt="GitHub" title="github" width="50px"/></a>
