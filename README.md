@@ -172,13 +172,13 @@
 
 <br>
 
-<div class="box" style="flex-direction:row">
+<p align="center" class="box" style="flex-direction:row">
     <img src="https://media.giphy.com/media/yjSNYYnj9gAeUbSHr3/giphy.gif" alt="clion" title="clion" width="60px">
     <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" title="pycharm" width="60px">
     <img src="https://media.giphy.com/media/0ZKDGWWimlunrp82XU/giphy.gif" alt="webstorm" title="webstorm" width="60px">
     <img src="https://media.giphy.com/media/iJWXxAr2Za6EtN2Row/giphy.gif" alt="ij" title="ij" width="60px">
     <img src="https://media.giphy.com/media/ukzNjL2uvnKjQwiO96/giphy.gif" alt="jb" title="jb" width="100px">
-</div>
+</p>
 
 
 <hr>
