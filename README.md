@@ -1,67 +1,8 @@
-<!-- adding styles -->
-<style>
-    #heading{
-        font-family: 'Hubballi', cursive;
-    }
-    .headers{
-        font-family: 'Merienda', cursive;
-        font-size: 20px;
-        font-weight: bold;
-    }
-    #name{
-        font-size: 20px;
-    }
-    .box{
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        flex-wrap: wrap;
-    }
-    .color{
-        color: red;
-    }
-    ul{
-        list-style: none;
-    }
-    li::before{
-        content: "•"; 
-        display: inline-block;
-        width: 1em;
-        margin-left: -1em;
-        margin: 10px 2px;
-        padding: auto;
-    }
-    .red::before{
-        color:red;
-    }
-    .blue::before{
-        color:pink;
-    }
-    .bold{
-        font-weight: bold;
-    }
-    .tech-icons{
-        font-size:50px;
-    }
-</style>
-
-<!-- connecting to google fonts api -->
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
-<link href="https://fonts.googleapis.com/css2?family=Merienda&family=Hubballi&display=swap" rel="stylesheet">
 
 
-<!-- icons -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+# <p align="center"><img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/>Welcome to my <span style="color:pink">GitHub</span> profile<img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/><br><br> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></p>
 
-
-<p id="heading" style="font-weight:bold;font-size:32px"align="center"><img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/>Welcome to my <span style="color:pink">GitHub</span> profile<img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/><br><br> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></p>
-
-<p id="name"> <span class="color">></span> I'm <span class="headers">Ahmed Gamal</span> </p>
+# - I'm **Ahmed Gamal**
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -123,19 +64,19 @@
 ## <p class="headers"><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
 
 
-<div class="box">
+<p align="center" class="box">
     <a href="https://github.com/ahmedgamal2212" class="stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamal2212&langs_count=5&layout=compact&theme=radical">
     </a>
-    <br>
+    <br><br>
     <a href="https://github.com/ahmedgamal2212" class="stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedgamal2212&show_icons=true&theme=radical" />
     </a>
-    <br>
+    <br><br>
     <a href="https://github.com/ahmedgamal2212" class="stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedgamal2212&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a><a class="stats">
     <img src="https://github-profile-trophy.vercel.app/?username=ahmedgamal2212&theme=radical&no-frame=false&row=1&&margin-w=30&no-bg=true">
     </a>
-</div>
+</p>
 
 <hr>
 <br> 
@@ -157,6 +98,8 @@
     <img src="tech-icons/ubuntu.svg" alt="ubuntu" width="50px" title="ubuntu">
     <img src="tech-icons/vscode.svg" alt="vscode" width="50px" title="vscode">
 </p>
+
+=======
 
 ## <p class="headers"><img src="https://media.giphy.com/media/Vbc33O3DoedXa0O6Pj/giphy.gif" width="50px"/> Currently Learning / Interested In</p> 
 
