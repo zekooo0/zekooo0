@@ -1,5 +1,7 @@
 <!-- adding styles -->
+
 <style>
+    
     #heading{
         font-family: 'Hubballi', cursive;
     }
@@ -44,11 +46,15 @@
     .tech-icons{
         font-size:50px;
     }
+	
 </style>
 
 <!-- connecting to google fonts api -->
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
+
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
 <link href="https://fonts.googleapis.com/css2?family=Merienda&family=Hubballi&display=swap" rel="stylesheet">
 
 
