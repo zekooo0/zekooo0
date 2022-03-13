@@ -1,5 +1,7 @@
 <!-- adding styles -->
 
+<!DOCTYPE html>
+
 <style>
     
     #heading{
