@@ -120,7 +120,7 @@
 ## <p class="headers"><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
 
 
-<div class="box">
+<p align="center" class="box">
     <a href="https://github.com/ahmedgamal2212" class="stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamal2212&langs_count=5&layout=compact&theme=radical">
     </a>
@@ -132,7 +132,7 @@
     <a href="https://github.com/ahmedgamal2212" class="stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedgamal2212&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a><a class="stats">
     <img src="https://github-profile-trophy.vercel.app/?username=ahmedgamal2212&theme=radical&no-frame=false&row=1&&margin-w=30&no-bg=true">
     </a>
-</div>
+</p>
 
 <hr>
 <br> 
