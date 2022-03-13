@@ -83,24 +83,6 @@
 
 ## <p class="headers"> <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" alt="tech" title="tech" width="50px"> Technologies, Languages, and Tools </p>
 
-<p align="center" class="box" style="flex-direction:row">
-    <i class="devicon-cplusplus-plain tech-icons"></i>
-    <i class="devicon-c-plain-wordmark tech-icons"></i>
-    <i class="devicon-html5-plain-wordmark tech-icons"></i>
-    <i class="devicon-css3-plain-wordmark tech-icons"></i>
-    <i class="devicon-git-plain-wordmark tech-icons"></i>
-    <i class="devicon-github-original-wordmark tech-icons"></i>
-    <i class="devicon-java-plain-wordmark tech-icons"></i>
-    <i class="devicon-javascript-plain tech-icons"></i>
-    <i class="devicon-linux-plain tech-icons"></i>
-    <i class="devicon-markdown-original tech-icons"></i>
-    <i class="devicon-python-plain-wordmark tech-icons"></i>
-    <i class="devicon-ubuntu-plain-wordmark tech-icons"></i>
-    <i class="devicon-vscode-plain-wordmark tech-icons"></i>
-    <!-- <i class="devicon-intellij-plain-wordmark"></i> -->
-    <br>
-</p>
-
 ## <p class="headers"><img src="https://media.giphy.com/media/Vbc33O3DoedXa0O6Pj/giphy.gif" width="50px"/> Currently Learning / Interested In</p> 
 
 <div class="box" style="flex-direction:row">
