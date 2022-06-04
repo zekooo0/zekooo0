@@ -104,6 +104,8 @@
 
 ## <p><img src="https://media.giphy.com/media/Vbc33O3DoedXa0O6Pj/giphy.gif" width="50px"/> Currently Learning / Interested In</p> 
 
+
+
 <p align="center">
     <img src="tech-icons/bash.svg" alt="bash" width="50px" title="bash">
     <img src="tech-icons/next.svg" alt="next" width="50px" title="next">
