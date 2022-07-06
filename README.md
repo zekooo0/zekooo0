@@ -32,14 +32,17 @@
 
 <li> I enjoy <strong>Problem Solving</strong> and <strong>Programming Competitions</strong></li>  
 
-<li> P assionate about <strong>Software Development</strong> and <strong>Emerging Technologies</strong></li>
+<li> Passionate about <strong>Software Development</strong> and <strong>Emerging Technologies</strong></li>
 
 <li> Looking forward to being a great <strong>Software Engineer</strong></li>
 
 <li> I'm into <strong>Data Structures</strong> & <strong>Algorithms</strong> <3 </li>
 
 <li> You can look at my <a href="https://drive.google.com/file/d/1xUxU5Wd_0921lt3ZNtdNxNPTM8_D5uXx/view?usp=sharing" target="blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience  </li>
+
 </ul>
+
+ 
 
 <hr>
 <br>
