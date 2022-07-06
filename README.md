@@ -19,7 +19,7 @@
 
 
 <!-- About -->
-## <p class="headers"><img src = "https://media.giphy.com/media/142K5KNLmUBtYI/giphy.gif" width = 50px>  About me </p>
+## <picture> <img width="60px" src="icons/about me gif.webp"> </picture>  About me </p>
 
 
 <img align="right" src="https://media.giphy.com/media/11EcsZWIcV4q2I/giphy.gif" width = 250px/>
