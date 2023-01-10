@@ -2,16 +2,13 @@
 
 # <p align="center"><img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/>Welcome to my <span style="color:pink">GitHub</span> profile<img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/><br><br> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></p>
 
+# - I'm **Ahmed Gamal**  
+
 ![](https://komarev.com/ghpvc/?username=AhmedGamal2212&color=red)
 
-<!-- <p align="center"> 
-	
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Most Active Users" target="_blank" height=25px, width=300px/> 
-	</a>
-</p> -->
+![Most Active GitHub User in Egypt Rank](https://enmqf3t1jshzbvh.m.pipedream.net)
 
-# - I'm **Ahmed Gamal**
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
