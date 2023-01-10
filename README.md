@@ -4,9 +4,12 @@
 
 # - I'm **Ahmed Gamal**  
 
-![](https://komarev.com/ghpvc/?username=AhmedGamal2212&color=red)
+<p style="margin-top: 2rem">
+    <img style="display:block; margin: 0 auto" src="https://komarev.com/ghpvc/?username=AhmedGamal2212&color=red">
+    <br>
+    <img style="display:block; margin: 0 auto" src="https://enmqf3t1jshzbvh.m.pipedream.net">
+</p>
 
-![Most Active GitHub User in Egypt Rank](https://enmqf3t1jshzbvh.m.pipedream.net)
 
 
 
