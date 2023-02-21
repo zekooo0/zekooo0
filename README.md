@@ -37,7 +37,7 @@
 
 <ul>
 <li>I am a Junior <strong>Computer Science</strong> Student @ SCU</li>
-<li> I'm an <strong>ACPC2021</strong> Finalist</li> 
+<li> I'm a 2X <strong>ACPC2</strong> Finalist</li> 
 
 <li> I enjoy <strong>Problem Solving</strong> and <strong>Programming Competitions</strong></li>  
 
