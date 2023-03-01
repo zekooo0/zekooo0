@@ -37,7 +37,7 @@
 
 <ul>
 <li>I am a Senior <strong>Computer Science</strong> Student @ SCU</li>
-<li> I'm a <strong>2X ACPC2</strong> Finalist</li> 
+<li> I'm <strong>2X ACPC</strong> Finalist</li> 
 
 <li> I enjoy <strong>Problem Solving</strong> and <strong>Programming Competitions</strong></li>  
 
