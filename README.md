@@ -47,7 +47,7 @@
 
 <li> I'm into <strong>Data Structures</strong> & <strong>Algorithms</strong> <3 </li>
 
-<li> You can look at my <a href="https://drive.google.com/file/d/1L5pdv_68AneukDozmZSMfJifGWYSyjoQ/view?usp=sharing" target="blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience  </li>
+<li> You can look at my <a href="https://drive.google.com/file/d/1rBY5RnjqSN0YynpG6xJc-0g5VwmaVm_h/view?usp=sharing" target="blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience  </li>
 
 </ul>
 
