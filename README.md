@@ -36,7 +36,7 @@
 <br><br>
 
 <ul>
-<li>I am a Senior <strong>Computer Science</strong> Student @ SCU</li>
+<li>I have a Bachelor's Degree in <strong>Computer Science</strong> from Suez Canal University</li>
 <li> I'm <strong>2X ACPC</strong> Finalist</li> 
 
 <li> I enjoy <strong>Problem Solving</strong> and <strong>Programming Competitions</strong></li>  
