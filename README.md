@@ -35,8 +35,8 @@
 <br><br>
 
 <ul>
-<li>I am a Junior <strong>Computer Science</strong> Student @ SCU</li>
-<li> I'm an <strong>ACPC2021</strong> Finalist</li> 
+<li>I have a Bachelor's Degree in <strong>Computer Science</strong> from Suez Canal University</li>
+<li> I'm <strong>2X ACPC</strong> Finalist</li> 
 
 <li> I enjoy <strong>Problem Solving</strong> and <strong>Programming Competitions</strong></li>  
 
@@ -46,7 +46,7 @@
 
 <li> I'm into <strong>Data Structures</strong> & <strong>Algorithms</strong> <3 </li>
 
-<li> You can look at my <a href="https://drive.google.com/file/d/1MzGeqtA1zhXsfzZQe-qVHwmMgri41ivV/view" target="blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience  </li>
+<li> You can look at my <a href="https://drive.google.com/file/d/1rBY5RnjqSN0YynpG6xJc-0g5VwmaVm_h/view?usp=sharing" target="blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience  </li>
 
 </ul>
 
