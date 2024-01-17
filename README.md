@@ -43,7 +43,7 @@
 
 <li>I have worked as a full-stack software engineer using <strong>React.js</strong> and <strong>Django</strong></li>
 
-<li>I love develping applications using <strong>React.js</strong></li>
+<li>I love developing applications using <strong>React.js</strong></li>
 
 <li>Passionate about <strong>Software Development</strong> and <strong>Emerging Technologies</strong></li>
 
