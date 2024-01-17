@@ -60,21 +60,6 @@
 <hr>
 <br>
 
-
-<!-- platforms & where to find me -->
-## <p><img src="https://media.giphy.com/media/zxAoODXqWnEU3lUlnD/giphy.gif" width="70px">  Where to find me? </p>
-
-<p align="center">
-    <a href="https://codeforces.com/profile/El_Gemmy"><img src="icons/codeforces.svg" alt="CodeForces" width="50px" title="codeforces"/></a>
-    <a href="https://leetcode.com/ahmedgemy2212/"><img src="icons/leetcode.svg" alt="LeetCode" width="50px" title="leetcode"/></a>
-	<a href="https://www.hackerrank.com/ahmedgemy2212"><img src="icons/hackerrank.svg" alt="HacerRank" width="50px" title="hackerrank"/></a>
-    <a href="https://atcoder.jp/users/El_Gemmy"><img src="icons/atcoder.svg" alt="AtCoder" width="50px" title="atcoder"/></a>     
-</p>
-
-<hr>
-<br>
-
-
 <!-- github stats and trophies -->
 ## <p><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
 
@@ -99,6 +84,21 @@
 
 <hr>
 <br> 
+
+
+<!-- platforms & where to find me -->
+## <p><img src="https://media.giphy.com/media/zxAoODXqWnEU3lUlnD/giphy.gif" width="70px">  Where to find me? </p>
+
+<p align="center">
+    <a href="https://codeforces.com/profile/El_Gemmy"><img src="icons/codeforces.svg" alt="CodeForces" width="50px" title="codeforces"/></a>
+    <a href="https://leetcode.com/ahmedgemy2212/"><img src="icons/leetcode.svg" alt="LeetCode" width="50px" title="leetcode"/></a>
+	<a href="https://www.hackerrank.com/ahmedgemy2212"><img src="icons/hackerrank.svg" alt="HacerRank" width="50px" title="hackerrank"/></a>
+    <a href="https://atcoder.jp/users/El_Gemmy"><img src="icons/atcoder.svg" alt="AtCoder" width="50px" title="atcoder"/></a>     
+</p>
+
+<hr>
+<br>
+
 
 ## <p> <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" alt="tech" title="tech" width="50px"> Technologies, Languages, and Tools </p>
 
