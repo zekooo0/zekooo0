@@ -15,8 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=d64b50&size=27&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;2X+ACPC+Finalist;Senior+Computer+Science+student;Problem+Solving+Coach"></a>
-</p>
+</p>k
 
 <br>
 
