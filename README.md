@@ -15,11 +15,12 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-</p>k
+  <img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=ccc&size=27&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;2X+ACPC+Finalist;Computer+Science+Graduate;Problem+Solving+Coach/instructor;Expert@Codeforces"></a>
+</p>
 
 <br>
 
->> "The future depends on what you do **now**"
+> "The future depends on what you do **now**"
 
 
 <hr>
@@ -35,14 +36,18 @@
 <br><br>
 
 <ul>
-<li>I have a Bachelor's Degree in <strong>Computer Science</strong> from Suez Canal University</li>
-<li> I'm <strong>2X ACPC</strong> Finalist</li> 
+<li>I have a Bachelor's degree in <strong>Computer Science</strong> from Suez Canal University</li>
+<li> I'm two times <strong>ACPC Finalist</strong></li> 
 
 <li> I enjoy <strong>Problem Solving</strong> and <strong>Programming Competitions</strong></li>  
 
-<li> Passionate about <strong>Software Development</strong> and <strong>Emerging Technologies</strong></li>
+<li>I have worked as a full-stack software engineer using <strong>React.js</strong> and <strong>Django</strong></li>
 
-<li> Looking forward to being a great <strong>Software Engineer</strong></li>
+<li>I love develping applications using <strong>React.js</strong></li>
+
+<li>Passionate about <strong>Software Development</strong> and <strong>Emerging Technologies</strong></li>
+
+<li> Looking forward to being a great Software Engineer</li>
 
 <li> I'm into <strong>Data Structures</strong> & <strong>Algorithms</strong> <3 </li>
 
@@ -60,12 +65,10 @@
 ## <p><img src="https://media.giphy.com/media/zxAoODXqWnEU3lUlnD/giphy.gif" width="70px">  Where to find me? </p>
 
 <p align="center">
-<a href="https://www.topcoder.com/members/El_Gemmy"><img src="icons/topcoder.svg" width="50px" title="topcoder" alt="TopCoder"/></a>
-  <a href="https://codeforces.com/profile/El_Gemmy"><img src="icons/codeforces.svg" alt="CodeForces" width="50px" title="codeforces"/></a>
-	<a href="https://leetcode.com/ahmedgemy2212/"><img src="icons/leetcode.svg" alt="LeetCode" width="50px" title="leetcode"/></a>
+    <a href="https://codeforces.com/profile/El_Gemmy"><img src="icons/codeforces.svg" alt="CodeForces" width="50px" title="codeforces"/></a>
+    <a href="https://leetcode.com/ahmedgemy2212/"><img src="icons/leetcode.svg" alt="LeetCode" width="50px" title="leetcode"/></a>
 	<a href="https://www.hackerrank.com/ahmedgemy2212"><img src="icons/hackerrank.svg" alt="HacerRank" width="50px" title="hackerrank"/></a>
     <a href="https://atcoder.jp/users/El_Gemmy"><img src="icons/atcoder.svg" alt="AtCoder" width="50px" title="atcoder"/></a>     
-	<a href="https://www.codingame.com/profile/f700167aca9e8b68edd6f3acdd21b44c5349764"><img src="icons/codingame-1.svg" alt="Codingame" width="50px" title="codingame"></a>
 </p>
 
 <hr>
@@ -124,10 +127,8 @@
     <img src="tech-icons/next.svg" alt="next" width="50px" title="next">
     <img src="tech-icons/node.svg" alt="node" width="50px" title="node">
     <img src="tech-icons/react.svg" alt="react" width="50px" title="react">
-    <img src="tech-icons/vue.svg" alt="vue" width="50px" title="vue">
     <img src="tech-icons/wp.svg" alt="wp" width="50px" title="wp">
     <img src="tech-icons/bootstrap.svg" alt="bootstrap" width="50px" title="bootstrap">
-    <img src="tech-icons/spring.svg" alt="spring" width="50px" title="spring">
 </p>
 
 <br>
