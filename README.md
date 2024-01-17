@@ -49,7 +49,9 @@
 
 <li> Looking forward to being a great Software Engineer</li>
 
-<li> I'm into <strong>Data Structures</strong> & <strong>Algorithms</strong> <3 </li>
+<li>I'm into <strong>Data Structures</strong> & <strong>Algorithms</strong> <3 </li>
+
+<li>Forgot to add that I love reading technical, self-development, and psychology books</li>
 
 <li> You can look at my <a href="https://drive.google.com/file/d/1rBY5RnjqSN0YynpG6xJc-0g5VwmaVm_h/view?usp=sharing" target="blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience  </li>
 
@@ -103,6 +105,7 @@
 ## <p> <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" alt="tech" title="tech" width="50px"> Technologies, Languages, and Tools </p>
 
 <p align="center">
+    <img src="tech-icons/sql-server.png" alt="sql" width="50px" title="sql">
     <img src="tech-icons/cpp.svg" alt="cpp" width="50px" title="cpp">
     <img src="tech-icons/c.svg" alt="c" width="50px" title="c">
     <img src="tech-icons/html.svg" alt="html" width="50px" title="html">
@@ -127,7 +130,6 @@
     <img src="tech-icons/next.svg" alt="next" width="50px" title="next">
     <img src="tech-icons/node.svg" alt="node" width="50px" title="node">
     <img src="tech-icons/react.svg" alt="react" width="50px" title="react">
-    <img src="tech-icons/wp.svg" alt="wp" width="50px" title="wp">
     <img src="tech-icons/bootstrap.svg" alt="bootstrap" width="50px" title="bootstrap">
 </p>
 
