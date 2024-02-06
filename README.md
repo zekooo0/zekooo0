@@ -1,168 +1,40 @@
-
-
 # <p align="center"><img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/>Welcome to my <span style="color:pink">GitHub</span> profile<img src="https://media.giphy.com/media/LpDmM2wSt6Hm5fKJVa/giphy.gif" width="40"/><br><br> <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></p>
 
-# - I'm **Ahmed Gamal**  
+# My name is Ahmed Gamal
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AhmedGamal2212&color=red">
-    <br>
-    <a href="https://commits.top/egypt.html">
-        <img src="https://en12si9ke02zgxr.m.pipedream.net">
-    </a>
+## Full-Stack Software Engineer
+
+I’m a computer science graduate who loves coding and software. I'm passionate about solving problems and thinking creatively, and I even qualified for the regional contest for Arab and Africa twice, which was a great experience and achievement for me. 
+
+I’m also a software engineer. I have worked as a full-stack software engineering intern at bld.ai, where I learned how to build web applications using React.js and Django.
+
+I’m also passionate about learning new things and sharing my knowledge with others. I also have a YouTube channel where I upload videos explaining some competitive programming topics, data structures, algorithms, or just the ideas to solve problems I find interesting. I have been a volunteer competitive programming and problem-solving coach for the past four years, and I have helped many people improve their skills and achieve their goals. 
+
+I’m always open to explore new technologies and domains. Furthermore, I’m especially curious about data engineering and machine learning, and how they can be used to solve real-world problems My favorite skills are C++, JavaScript, Python, Django, React.js, SQL (PostgreSQL), and Bulma CSS, but I’m not limited by them.
+
+-   ✉️ You can contact me at [ahmedgamal.ssaleh@gmail.com](mailto:ahmedgamal.ssaleh@gmail.com)
+-   🚀 I'm currently working on [This awesome React.js + Bulma CSS Todo](http://github.com/AhmedGamal2212/My-Awesome-Todo)
+-   🧠 I'm currently learning Tailwind and Next.js
+-   ⚡ I’m not addicted to coffee. We’re just in a committed relationship.
+
+### Skills
+
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
+### Socials
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font='Hubballi'&color=ccc&size=27&center=true&vCenter=true&width=500&height=100&lines=Software+Engineer;2X+ACPC+Finalist;Computer+Science+Graduate;Problem+Solving+Coach/instructor;Expert@Codeforces"></a>
-</p>
-
-<br>
-
-> "The future depends on what you do **now**"
+<p align="left"> <a href="https://www.facebook.com/ahmed.ggamalssaleh/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/ahmedgamal2212" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ahmedgamalssaleh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/16459524/ahmed-gamal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@El_gemmy" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 
-<hr>
-<br>
+<b>My GitHub Stats</b>
 
-
-<!-- About -->
-## <picture> <img width="60px" src="icons/about me gif.webp"> </picture>  About me </p>
-
-
-<img align="right" src="https://media.giphy.com/media/11EcsZWIcV4q2I/giphy.gif" width = 250px/>
-
-<br><br>
-
-<ul>
-<li>I have a Bachelor's degree in <strong>Computer Science</strong> from Suez Canal University</li>
-<li> I'm two times <strong>ACPC Finalist</strong></li> 
-
-<li> I enjoy <strong>Problem Solving</strong> and <strong>Programming Competitions</strong></li>  
-
-<li>I have worked as a full-stack software engineer using <strong>React.js</strong> and <strong>Django</strong></li>
-
-<li>I love developing applications using <strong>React.js</strong></li>
-
-<li>Passionate about <strong>Software Development</strong> and <strong>Emerging Technologies</strong></li>
-
-<li> Looking forward to being a great Software Engineer</li>
-
-<li>I'm into <strong>Data Structures</strong> & <strong>Algorithms</strong> <3 </li>
-
-<li>Forgot to add that I love reading technical, self-development, and psychology books</li>
-
-<li> You can look at my <a href="https://drive.google.com/file/d/1rBY5RnjqSN0YynpG6xJc-0g5VwmaVm_h/view?usp=sharing" target="blank"><strong>Resume</strong></a> for more Details about me and my work / volunteering experience  </li>
-
-</ul>
-
- 
-
-<hr>
-<br>
-
-<!-- github stats and trophies -->
-## <p><img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" alt="stats" width="50px"> <span style="color:pink">GitHub</span> Stats</p>
-
-
-<p align="center">
-    <a href="https://github.com/ahmedgamal2212">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamal2212&langs_count=5&layout=compact&theme=radical">
-    </a>
-    <br><br>
-    <a href="https://github.com/ahmedgamal2212">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedgamal2212&show_icons=true&theme=radical" />
-    </a>
-    <br><br>
-    <a href="https://github.com/ahmedgamal2212"><img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedgamal2212&theme=radical&date_format=M%20j%5B%2C%20Y%5D"></a>
-    <br><br>
-    <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmedgamal2212&theme=radical&no-frame=false&row=1&&margin-w=30&no-bg=true">
-    </a>
-</p>
+<div align="center">
+<a href="http://www.github.com/ahmedgamal2212"><img src="https://github-readme-stats.vercel.app/api?username=ahmedgamal2212&show_icons=true&hide=issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&show_icons=true" alt="ahmedgamal2212's GitHub stats"/></a>
+<a href="http://www.github.com/ahmedgamal2212"><img
+src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedgamal2212&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/ahmedgamal2212" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedgamal2212&langs_count=5&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
 [![@el_gemmy's Holopin board](https://holopin.io/api/user/board?user=el_gemmy)](https://holopin.io/@el_gemmy)
-
-<hr>
-<br> 
-
-
-<!-- platforms & where to find me -->
-## <p><img src="https://media.giphy.com/media/zxAoODXqWnEU3lUlnD/giphy.gif" width="70px">  Where to find me? </p>
-
-<p align="center">
-    <a href="https://codeforces.com/profile/El_Gemmy"><img src="icons/codeforces.svg" alt="CodeForces" width="50px" title="codeforces"/></a>
-    <a href="https://leetcode.com/ahmedgemy2212/"><img src="icons/leetcode.svg" alt="LeetCode" width="50px" title="leetcode"/></a>
-	<a href="https://www.hackerrank.com/ahmedgemy2212"><img src="icons/hackerrank.svg" alt="HacerRank" width="50px" title="hackerrank"/></a>
-    <a href="https://atcoder.jp/users/El_Gemmy"><img src="icons/atcoder.svg" alt="AtCoder" width="50px" title="atcoder"/></a>     
-</p>
-
-<hr>
-<br>
-
-
-## <p> <img src="https://media.giphy.com/media/h1QmJxwoCr19BtTkGt/giphy.gif" alt="tech" title="tech" width="50px"> Technologies, Languages, and Tools </p>
-
-<p align="center">
-    <img src="tech-icons/sql-server.png" alt="sql" width="50px" title="sql">
-    <img src="tech-icons/cpp.svg" alt="cpp" width="50px" title="cpp">
-    <img src="tech-icons/c.svg" alt="c" width="50px" title="c">
-    <img src="tech-icons/html.svg" alt="html" width="50px" title="html">
-    <img src="tech-icons/css.svg" alt="css" width="50px" title="css">
-    <img src="tech-icons/git.svg" alt="git" width="50px" title="git">
-    <img src="tech-icons/github.svg" alt="github" width="50px" title="github">
-    <img src="tech-icons/java.svg" alt="java" width="50px" title="java">
-    <img src="tech-icons/js.svg" alt="js" width="50px" title="js">
-    <img src="tech-icons/linux.svg" alt="linux" width="50px" title="linux">
-    <img src="tech-icons/md.svg" alt="md" width="50px" title="md">
-    <img src="tech-icons/python.svg" alt="python" width="50px" title="python">
-    <img src="tech-icons/ubuntu.svg" alt="ubuntu" width="50px" title="ubuntu">
-    <img src="tech-icons/vscode.svg" alt="vscode" width="50px" title="vscode">
-</p>
-
-## <p><img src="https://media.giphy.com/media/Vbc33O3DoedXa0O6Pj/giphy.gif" width="50px"/> Currently Learning / Interested In</p> 
-
-
-
-<p align="center">
-    <img src="tech-icons/bash.svg" alt="bash" width="50px" title="bash">
-    <img src="tech-icons/next.svg" alt="next" width="50px" title="next">
-    <img src="tech-icons/node.svg" alt="node" width="50px" title="node">
-    <img src="tech-icons/react.svg" alt="react" width="50px" title="react">
-    <img src="tech-icons/bootstrap.svg" alt="bootstrap" width="50px" title="bootstrap">
-</p>
-
-<br>
-
-<p align="center">
-    <img src="https://media.giphy.com/media/yjSNYYnj9gAeUbSHr3/giphy.gif" alt="clion" title="clion" width="60px">
-    <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" title="pycharm" width="60px">
-    <img src="https://media.giphy.com/media/0ZKDGWWimlunrp82XU/giphy.gif" alt="webstorm" title="webstorm" width="60px">
-    <img src="https://media.giphy.com/media/iJWXxAr2Za6EtN2Row/giphy.gif" alt="ij" title="ij" width="60px">
-    <img src="https://media.giphy.com/media/ukzNjL2uvnKjQwiO96/giphy.gif" alt="jb" title="jb" width="100px">
-</p>
-
-
-<hr>
-<br>
-
-<!-- how to reach me -->
-## <p><img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="40px"> How to Reach Me </p>
-
-<!-- -->
-<p align="center">
-	<a href="mailto:ahmedgamal.ssaleh@gmail.com"><img img src="icons/gmail2.svg" alt="Gmail" title="gmail" width="50px"/></a>
-	<a href="https://github.com/ahmedgamal2212"><img src="icons/github.svg" alt="GitHub" title="github" width="50px"/></a>
-	<a href="https://wa.me/021226384555"><img src="icons/whatsapp.svg" alt="Whatsapp" title="whatsapp" width="50px"/></a>
-	<a href="https://www.linkedin.com/in/ahmedgamalssaleh/"><img src="icons/linkedin.svg" alt="LinkedIn" width="50px" title="linkedin"/></a>
-	<a href="https://www.facebook.com/ahmed.ggamalssaleh"><img src="icons/Facebook.svg" alt="Facebook" title="facebook" width="50px"/></a>
-</p>
-<hr>
-
-
-<!-- end -->
-<p align="center" class="box" style="text-align:center">
-    <p align="center">Don't forget to give this repo a star <img src="https://media.giphy.com/media/k9F6ZtOTEr4UGmt3H2/giphy.gif" width="40px" alt="star" title="star"><br> Thank you for your attention<br> <img src="https://media.giphy.com/media/3HbtyiV6otnLf4WHSN/giphy.gif" alt="duck" title="duck" width="300px"></p>
-    
-</p>
