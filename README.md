@@ -17,7 +17,7 @@ I’m always open to explore new technologies and domains.
 -   ✉️ You can contact me at [ahmedgamal.ssaleh@gmail.com](mailto:ahmedgamal.ssaleh@gmail.com)
 -   🚀 I'm currently working on [This awesome React.js + Bulma CSS Todo](http://github.com/AhmedGamal2212/My-Awesome-Todo)
 -   🧠 I'm currently learning Tailwind and Next.js
--   ⚡ I’m not addicted to coffee. We’re just in a committed relationship.
+-   ☕ I’m not addicted to coffee. We’re just in a committed relationship.
 
 ### Skills
 
