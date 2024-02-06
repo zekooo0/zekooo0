@@ -8,9 +8,11 @@ I’m a computer science graduate who loves coding and software. I'm passionate 
 
 I’m also a software engineer. I have worked as a full-stack software engineering intern at bld.ai, where I learned how to build web applications using React.js and Django.
 
-I’m also passionate about learning new things and sharing my knowledge with others. I also have a YouTube channel where I upload videos explaining some competitive programming topics, data structures, algorithms, or just the ideas to solve problems I find interesting. I have been a volunteer competitive programming and problem-solving coach for the past four years, and I have helped many people improve their skills and achieve their goals. 
+I’m passionate about learning new things and sharing my knowledge with others. I also have a YouTube channel where I upload videos explaining some competitive programming topics, data structures, algorithms, or just the ideas to solve problems I find interesting. I have been a volunteer competitive programming and problem-solving coach for the past four years, and I have helped many people improve their skills and achieve their goals. 
 
-I’m always open to explore new technologies and domains. Furthermore, I’m especially curious about data engineering and machine learning, and how they can be used to solve real-world problems My favorite skills are C++, JavaScript, Python, Django, React.js, SQL (PostgreSQL), and Bulma CSS, but I’m not limited by them.
+My favorite skills are C++, JavaScript, Python, Django, React.js, SQL (PostgreSQL), and Bulma CSS, but I’m not limited by them.
+
+I’m always open to explore new technologies and domains.
 
 -   ✉️ You can contact me at [ahmedgamal.ssaleh@gmail.com](mailto:ahmedgamal.ssaleh@gmail.com)
 -   🚀 I'm currently working on [This awesome React.js + Bulma CSS Todo](http://github.com/AhmedGamal2212/My-Awesome-Todo)
