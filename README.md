@@ -34,5 +34,4 @@ I’m always open to exploring new technologies and domains.
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zekooo0&layout=compact)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zekooo0&latyout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
