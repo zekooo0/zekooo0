@@ -3,21 +3,21 @@
 
 ### Hi there 👋, I'm Ahmed Zakaria
 
-[cite_start]I am a Results-driven Full-Stack Developer with 2+ years of experience[cite: 1, 4]. [cite_start]I specialize in building scalable web, mobile, and AI-powered applications. 
+I am a Results-driven Full-Stack Developer with 2+ years of experience. I specialize in building scalable web, mobile, and AI-powered applications. 
 
 **What I'm up to:**
-* [cite_start]🏢 Currently working as a Frontend Engineer at Webelocity.
-* [cite_start]📱 Developing B2B mobile applications using React Native, Expo, Gluestack UI, and NativeWind[cite: 16].
-* [cite_start]🤖 Built an AI-Powered ATS Resume Optimizer utilizing Next.js, TypeScript, and OpenAI APIs[cite: 27, 29].
-* [cite_start]🌿 Creator of Touch Grass, a cross-platform health reminder app published on the Google Play Store[cite: 30, 33].
+* 🏢 Currently working as a Frontend Engineer at Webelocity.
+* 📱 Developing B2B mobile applications using React Native, Expo, Gluestack UI, and NativeWind.
+* 🤖 Built an AI-Powered ATS Resume Optimizer utilizing Next.js, TypeScript, and OpenAI APIs.
+* 🌿 Creator of Touch Grass, a cross-platform health reminder app published on the Google Play Store.
 
 **Core Technologies:**
-* [cite_start]**Frontend:** React.js, Next.js, TypeScript, Tailwind CSS[cite: 38].
-* [cite_start]**Mobile:** React Native, Expo, Push Notifications, Background Tasks[cite: 39].
-* [cite_start]**Backend:** Node.js, Express.js, Nest.js, RESTful APIs[cite: 39].
-* [cite_start]**Databases & Tools:** MongoDB, PostgreSQL, Git, Docker, Vercel, Sentry[cite: 39, 40].
+* **Frontend:** React.js, Next.js, TypeScript, Tailwind CSS.
+* **Mobile:** React Native, Expo, Push Notifications, Background Tasks.
+* **Backend:** Node.js, Express.js, Nest.js, RESTful APIs.
+* **Databases & Tools:** MongoDB, PostgreSQL, Git, Docker, Vercel, Sentry.
 
-[cite_start]📫 **Let's connect:** Reach out to me at ahmed.m.zakaria@zohomail.com[cite: 2].
+📫 **Let's connect:** Reach out to me at ahmed.m.zakaria@zohomail.com
 
 
 ## 🌐 Socials:
